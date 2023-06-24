@@ -1,0 +1,1 @@
+{"uuid":"8ec8fd83-1335-433d-822d-263f990e96c4","name":"Rest-Assured TestNG Tests","children":["d1ddb9e6-faaf-416f-a21e-eb55ed6f97fc"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686674326268,"stop":1686674327117}],"afters":[],"links":[],"start":1686674326243,"stop":1686674357638}
